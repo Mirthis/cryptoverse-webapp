@@ -1,11 +1,11 @@
 # Cryptoverse
 
-This app was built as part of me learning Javascript and React.
+Basic app leveraging CoinRanking API via RapidApi to retreive crypto currencies data and news.
 
-It provides basic information on the crypto market, coins and news.
-
-The "Exchanges" section is not currently working as the corresponding API is no longer available for free.
-
-There's no back-end code for this app as all the required data are pulled from an API.
+The app aksi have an "Exchanges" section (see `Exchange.jsx` ) but this is currenrly being commented out as the corresponding API is no longer available for free.
 
 A deployed version of the app can be found [here](https://cryptoverse-mirthis.netlify.app/).
+
+## Tech Stack
+
+React, Redux Toolkit, ChartJS, Ant Design
